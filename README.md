@@ -13,7 +13,7 @@ Este repositorio contiene la entrega del taller de nivelación de Programación 
 
 1. Clona este repositorio:
    ```
-   https://github.com/sebastindiaz123-code/Taller-nivelacion-PI.git
+   git clone https://github.com/sebastindiaz123-code/Taller-nivelacion-PI.git
    ```
 2. Entra a la carpeta del repositorio:
    ```

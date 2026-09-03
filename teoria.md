@@ -83,7 +83,13 @@ Un remoto es una referencia a una URL de un repositorio externo. origin normalme
 git log: muestra el historial de commits (autor, fecha, mensaje).
 git diff: muestra las diferencias entre el directorio de trabajo, el staging area o distintos commits.
 git show: muestra el contenido detallado y los cambios introducidos por un commit específico.
-Programación (Java)
+
+
+
+
+###Programación (Java)###
+
+
 15. ¿Cuáles son los tipos de datos primitivos en Java?
 
 byte, short, int, long, float, double, char y boolean.
